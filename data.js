@@ -7,7 +7,7 @@ export default [
       endDate: "24 Jan, 2021",
       description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
       coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-  }
+  },
   {
     title: "Palma de Mallorca",
     location: "Spain",
@@ -16,7 +16,7 @@ export default [
     endDate: "24 Jan, 2021",
     description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
     coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-}
+},
 {
   title: "Munich",
   location: "Germany",
@@ -25,7 +25,7 @@ export default [
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
   coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-}
+},
 {
   title: "Barcelona",
   location: "Spain",
@@ -34,7 +34,7 @@ export default [
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
   coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-}
+},
 {
   title: "Hamburg",
   location: "Germany",
@@ -43,7 +43,7 @@ export default [
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
   coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-}
+},
 {
   title: "Tokyo",
   location: "Japan",
@@ -52,7 +52,7 @@ export default [
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
   coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-}
+},
 {
   title: "Milan",
   location: "Italy",
@@ -61,7 +61,7 @@ export default [
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
   coverImg: "https://source.unsplash.com/WLxQvbMyfas"
-}
+},
 {
   title: "Cape Town",
   location: "South Africa",
