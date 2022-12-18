@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
       title: "Hokkaido",
       location: "Japan",
@@ -73,3 +73,5 @@ export default [
 }
 
 ]
+
+export default data
