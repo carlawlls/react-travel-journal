@@ -9,7 +9,7 @@ export default function Card(props) {
           <div className='card--top'>
             <img src='/images/location.png' alt='' className='location--img'/>
             <p className='card--location'>{props.item.location}</p>
-            <p className='card--link'>{props.item.googleMapsUrl}</p>
+            <a href={`${props.item.googleMapsUrl}`} target='_blank' rel='noreferrer' className='card--link'>{props.item.googleMapsUrl}</a>
           </div>
           <h1 className='card--title'>{props.item.title}</h1>
           <p className='card--date'>{props.item.startDate} - {props.item.endDate}</p>
