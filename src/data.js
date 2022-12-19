@@ -6,7 +6,7 @@ const data = [
       startDate: "12 Jan, 2021",
       endDate: "24 Jan, 2021",
       description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-      coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+      coverImg: "hokkaido.png"
   },
   {
     title: "Palma de Mallorca",
@@ -15,7 +15,7 @@ const data = [
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
     description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-    coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+    coverImg: "palma.png"
 },
 {
   title: "Munich",
@@ -24,7 +24,7 @@ const data = [
   startDate: "12 Jan, 2021",
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-  coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+  coverImg: "munich.png"
 },
 {
   title: "Barcelona",
@@ -33,7 +33,7 @@ const data = [
   startDate: "12 Jan, 2021",
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-  coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+  coverImg: "barcelona.png"
 },
 {
   title: "Hamburg",
@@ -42,7 +42,7 @@ const data = [
   startDate: "12 Jan, 2021",
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-  coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+  coverImg: "hh.png"
 },
 {
   title: "Tokyo",
@@ -51,7 +51,7 @@ const data = [
   startDate: "12 Jan, 2021",
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-  coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+  coverImg: "tokyo.png"
 },
 {
   title: "Milan",
@@ -60,7 +60,7 @@ const data = [
   startDate: "12 Jan, 2021",
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-  coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+  coverImg: "milan.png"
 },
 {
   title: "Cape Town",
@@ -69,7 +69,7 @@ const data = [
   startDate: "12 Jan, 2021",
   endDate: "24 Jan, 2021",
   description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-  coverImg: "https://source.unsplash.com/WLxQvbMyfas"
+  coverImg: "capetown.png"
 }
 
 ]
