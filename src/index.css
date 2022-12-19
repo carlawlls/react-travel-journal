@@ -9,6 +9,7 @@ nav {
   top: 0px;
   background: #88a7db;
   padding: 16px;
+  margin-bottom: 48px;
 }
 
 .nav--content {
@@ -31,7 +32,9 @@ nav {
 .card {
   display: flex;
   gap: 8px;
-  padding: 32px 48px;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-bottom: 32px;
 }
 
 .card--img {
@@ -43,6 +46,7 @@ nav {
 
 .card--top {
   display: flex;
+  gap: 8px;
 }
 
 .card--link{
@@ -72,6 +76,7 @@ nav {
 .location--img {
   width: 7px;
   height: 9.55px;
+  align-self: center;
 }
 
 .card--title {
